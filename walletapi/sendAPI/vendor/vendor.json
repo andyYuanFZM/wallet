@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "w3Dw+1/XzSrf4f94HNNNd3a9DgI=",
+			"path": "github.com/btcsuite/btcd/btcec",
+			"revision": "c26ffa870fd817666a857af1bf6498fabba1ffe3",
+			"revisionTime": "2019-06-29T00:36:39Z"
+		}
+	],
+	"rootPath": "github.com/andyYuanFZM/wallet/walletapi/sendAPI"
+}
